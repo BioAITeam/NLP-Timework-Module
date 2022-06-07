@@ -88,7 +88,7 @@ conda install xlrd
 ## Ejecución
 Después de instalar todos los requisitos, debe clonar el repositorio usando:
 ```
-git clone https://github.com/BioAITeam/Requests-classification-using-ML-and-NLP.git
+git clone https://github.com/BioAITeam/NLP-Timework-Module.git
 ```
 Si se va a usar colab, cargue la carpeta clonada en la unidad, luego abra la carpeta y ejecute el notebook.
 
