@@ -1,6 +1,7 @@
 # NLP-Timework-Module
 El módulo NLP en Timework es un software para la clasificación de tickets de servicio, es decir, requerimientos, solicitudes e incidencias presentadas por clientes al área de soporte técnico de SIGMA Ingeniería S.A. Este SW permite la clasificación automática de los tickets de servicio a partir de la técnica de Aprendizaje Automático (ML); Máquina de vectores de Soporte (SVM) y técnicas de procesamiento de lenguaje Natural (NLP) aplicadas a las bases de datos con las que cuenta la empresa, esta clasificación brinda la categoría perteneciente del ticket de servicio junto con su protocolo de solución a la incidencia presentada para que de esta manera el área de soporte y servicio al cliente brinde una solución al ticket de servicio de una manera más rápida, confiable y segura. Este software está desarrollado en Python con librerías de Sklearn, NLTK, spaCy, TfidfVectorizer que permite tomar el modelo entrenado y guardado y hacer la clasificación automática de texto sobre tickets de servicio presentados en la empresa.
-## Citing
+
+## Citar
 
 Si utiliza nuestro proyecto para su investigación o si encuentra este documento y el repositorio útiles, por favor considere citar el trabajo.
 
