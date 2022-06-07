@@ -5,8 +5,7 @@ El módulo NLP en Timework es un software para la clasificación de tickets de s
 
 Si utiliza nuestro proyecto para su investigación o si encuentra este documento y el repositorio útiles, por favor considere citar el trabajo.
 
-Cite el repositorio: [![DOI](https://zenodo.org/badge/500692485.svg)](https://zenodo.org/badge/latestdoi/500692485)
- 
+Cite el repositorio: [![DOI](https://zenodo.org/badge/500692485.svg)](https://zenodo.org/badge/latestdoi/500692485) 
 
 ## Carpetas
 
